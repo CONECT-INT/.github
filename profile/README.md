@@ -13,7 +13,7 @@ The Computational Neuroscience Center ([CONECT](https://conect-int.github.io/)) 
   * [Source code](https://github.com/invibe/ANEMO/)
 
 * **Generation of stimuli for neurophysiology**: MotionClouds
-* **MotionClouds** are random dynamic stimuli optimized to study motion perception.
+  * **MotionClouds** are random dynamic stimuli optimized to study motion perception.
   * [Web-site](https://neuralensemble.github.io/MotionClouds/)
   * [Source code](https://github.com/NeuralEnsemble/MotionClouds)
 
