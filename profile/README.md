@@ -1,4 +1,4 @@
-# welcome to the github organization pge of CONECT !
+# welcome to the github organization page of CONECT !
 
 The Computational Neuroscience Center ([CONECT](https://conect-int.github.io/)) is an incubator within the INT to promote theoretical and computational neuroscience.
 
